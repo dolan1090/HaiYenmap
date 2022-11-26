@@ -1,0 +1,23 @@
+*{margin:0;padding:0;-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box}
+
+img {
+  width: 100%;
+}
+
+.clear {
+  clear: both;
+}
+
+.show-mn {display: block !important;}
+
+#locations {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.box-see-more-news {
+    display: flex;
+    gap: 10px;
+    align-items: center;
+}
